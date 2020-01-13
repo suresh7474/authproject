@@ -1,0 +1,443 @@
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\admin.py changed, reloading.
+DEBUG:root:This is degug
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\admin.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/login/python
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/login/java
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\DJango\uthproject\testapp\views.py", line 22, in sing_UP_view
+    form=Sign_up()
+  File "D:\DJango\penvv\lib\site-packages\django\forms\models.py", line 288, in __init__
+    self.instance = opts.model()
+TypeError: 'User' object is not callable
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\forms.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\DJango\uthproject\testapp\views.py", line 23, in sing_UP_view
+    return render(request,'sign_up.html',{'form':form})
+  File "D:\DJango\penvv\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\DJango\penvv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\DJango\penvv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sign_up.html
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /account/login
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /account/login
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/login/signup
+WARNING:django.request:Not Found: /accounts/login/python
+WARNING:django.request:Not Found: /accounts/login/c
+WARNING:django.request:Not Found: /accounts/login/signup
+WARNING:django.request:Not Found: /accounts/login/java
+WARNING:django.request:Not Found: /accounts/login/signup
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/login/python
+WARNING:django.request:Not Found: /accounts/login/java
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/login/
+WARNING:django.request:Not Found: /accounts/login/
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/logout /
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/login/signup
+WARNING:django.request:Not Found: /accounts/logout /
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.security.csrf:Forbidden (CSRF token missing or incorrect.): /admin/login/
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /account
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/profile/
+WARNING:django.request:Not Found: /accounts/login/signup
+WARNING:django.request:Not Found: /accounts/login/signup
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/
+WARNING:django.request:Not Found: /accounts/
+WARNING:django.request:Not Found: /accounts/
+WARNING:django.request:Not Found: /accounts/
+WARNING:django.request:Not Found: /accounts/
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\settings.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\uthproject\urls.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /accounts/login/signup
+WARNING:django.request:Not Found: /account/login
+ERROR:django.request:Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\DJango\uthproject\testapp\views.py", line 25, in sing_UP_view
+    form.save()
+  File "D:\DJango\penvv\lib\site-packages\django\forms\models.py", line 453, in save
+    'created' if self.instance._state.adding else 'changed',
+ValueError: The User could not be created because the data didn't validate.
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\DJango\uthproject\testapp\views.py", line 25, in sing_UP_view
+    user=form.save()
+  File "D:\DJango\penvv\lib\site-packages\django\forms\models.py", line 453, in save
+    'created' if self.instance._state.adding else 'changed',
+ValueError: The User could not be created because the data didn't validate.
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:D:\DJango\uthproject\testapp\views.py changed, reloading.
+WARNING:root:This is warning
+CRITICAL:root:This is critical
+ERROR:root:This is error
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\DJango\penvv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\DJango\uthproject\testapp\views.py", line 25, in sing_UP_view
+    user=form.save()
+  File "D:\DJango\penvv\lib\site-packages\django\forms\models.py", line 453, in save
+    'created' if self.instance._state.adding else 'changed',
+ValueError: The User could not be created because the data didn't validate.
